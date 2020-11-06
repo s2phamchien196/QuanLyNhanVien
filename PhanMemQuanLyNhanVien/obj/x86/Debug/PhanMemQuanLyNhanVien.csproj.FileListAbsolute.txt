@@ -1,0 +1,22 @@
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\bin\Debug\PhanMemQuanLyNhanVien.exe
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\bin\Debug\PhanMemQuanLyNhanVien.pdb
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.csprojResolveAssemblyReference.cache
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.Form1.resources
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.Properties.Resources.resources
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.QuanLyThongTinBangLuong.resources
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.QuanLyThongTinNhanVien.resources
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.csproj.GenerateResource.Cache
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.exe
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.pdb
+C:\Users\luong\onedrive\documents\visual studio 2010\Projects\PhanMemQuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.QuanLyThongTinPhongBan.resources
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.exe
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.pdb
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\bin\Debug\PhanMemQuanLyNhanVien.exe
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\bin\Debug\PhanMemQuanLyNhanVien.pdb
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.csprojResolveAssemblyReference.cache
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.Form1.resources
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.Properties.Resources.resources
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.QuanLyThongTinBangLuong.resources
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.QuanLyThongTinNhanVien.resources
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.QuanLyThongTinPhongBan.resources
+C:\Users\luong\Desktop\QuanLyNhanVien\PhanMemQuanLyNhanVien\obj\x86\Debug\PhanMemQuanLyNhanVien.csproj.GenerateResource.Cache
